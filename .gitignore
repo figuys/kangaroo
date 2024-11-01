@@ -147,7 +147,11 @@ coverage*.json
 coverage*.xml
 coverage*.info
 
+<<<<<<< HEAD
 # Visual Studio code coverage results
+=======
+# Visual Studio langs coverage results
+>>>>>>> c6d025b (Initial commit)
 *.coverage
 *.coveragexml
 

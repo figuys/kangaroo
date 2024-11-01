@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="VcsDirectoryMappings" defaultProject="true" />
+=======
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../research/src_BSGS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../research/src_Kangaroo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../research/src_VanitySearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../research/src_keyhunt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../research/src_pollard-kangaroo-c99" vcs="Git" />
+  </component>
+>>>>>>> c6d025b (Initial commit)
 </project>
